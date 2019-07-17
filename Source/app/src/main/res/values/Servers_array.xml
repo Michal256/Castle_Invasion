@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Servers">
+        <item>Server 1</item>
+        <item>Server 2</item>
+        <item>Server 3</item>
+        <item>Server 4</item>
+        <item>Server 5</item>
+        <item>Server 6</item>
+        <item>Server 7</item>
+        <item>Server 8</item>
+        <item>Server 9</item>
+        <item>Server 10</item>
+    </string-array>
+</resources>

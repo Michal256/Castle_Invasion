@@ -1,0 +1,36 @@
+<resources>
+    <!--main_menu-->
+    <string name="app_name">Castle Invasion</string>
+    <string name="button_play">Play</string>
+    <string name="button_options">Options</string>
+    <string name="button_credits">Credits</string>
+    <string name="button_exit">Exit</string>
+    <!--play_menu -->
+    <string name="button_search">Find match</string>
+    <string name="button_select">Select match room</string>
+    <string name="button_back">Back</string>
+    <string name="game_name">Game name</string>
+    <string name="settings_smenu">Settings</string>
+    <string name="sound_smenu">Sound:</string>
+    <string name="choose_character_menu">Your Hero:</string>
+    <string name="choose_strategy_menu">Choose your Tactic:</string>
+    <string name="search_server_name">Search Server Name</string>
+    <string name="credits_menu_text">Credits:</string>
+    <string name="game_authors">
+    <b>Game created by:</b> Michał Ziółek and Patryk Wyczesany.\n
+    </string>
+    <string name="game_credits">
+    <b>List of graphics and their authors(graphics from opengameart.org):\n</b>
+    |Magic buttons| Author: Dakal,  |UI Buttons| Author: PINKCANNON\n
+    |Grass textures| Author: Para,  |Castle texture| Author:Hyptosis, Zabin, Daniel Cook\n
+    |Gold Knight texture| Author: Calciumtrice, |Weapon Slash Effect| Author: Cethiel \n
+    |Goblin texture| Author: William.Thompsonj Attribute Stephen \"Redshrike\" Challener \n as graphic artist and William. Thompsonj as contributor.\n
+    |Grue(Spectre) texture| Author: Jesse McCarthy, |Joystick| Author: CruzR\n
+    |Pixel icons| Author: Henrique Lazarini (7Soul1), |GUI| Author: Under the moon\n
+    \n
+    <b>Others:</b>\n
+    |Font type "Lato"| Author: Łukasz Dziedzic\n
+    Logo from cooltext.com\n
+    Background pattern from Toptal Subtle Patterns\n
+    </string>
+</resources>
